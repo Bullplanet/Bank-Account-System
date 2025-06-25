@@ -60,9 +60,13 @@ Edit
 
 
 bank-account-system/
+
 │
+
 ├── main.py             # Entry point with menu and user input
+
 ├── bank_account.py     # Contains the BankAccount class (OOP logic)
+
 ├── README.md
 
 
